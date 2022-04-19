@@ -4,7 +4,7 @@
 ***Conteúdo da Aula:***
 
 * Diferença entre o pensamento de perto e o pensamento de longe.
-
+  * O que e o pensamento de perto?
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
