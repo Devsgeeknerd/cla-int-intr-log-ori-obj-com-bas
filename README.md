@@ -3,6 +3,9 @@
 
 ***Conteúdo da Aula:***
 
+* Diferença entre o pensamento de perto e o pensamento de longe.
+
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
