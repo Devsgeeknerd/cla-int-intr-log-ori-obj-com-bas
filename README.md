@@ -6,6 +6,9 @@
 * Diferença entre o pensamento de perto e o pensamento de longe.
   * O que e o pensamento de perto?
     * E quando estou resolvendo um problema especifico, martelando a cabeça, tentando encontrar uma solução para o problema.
+&nbsp;
+* O que e o pensamento de longe?
+  * E quando se tem uma visão geral, de cima dos problemas do dia-a-dia e conseguimos ver quadro inteiro.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
