@@ -10,6 +10,7 @@
     * E quando se tem uma visão geral, de cima dos problemas do dia-a-dia e conseguimos ver quadro inteiro.
 &nbsp;
 * O poder do interrogatório elaborado.
+  * E um erro que 99% das pessoas que programam cometem.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
