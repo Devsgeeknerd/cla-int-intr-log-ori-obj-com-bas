@@ -8,7 +8,8 @@
     * E quando estou resolvendo um problema especifico, martelando a cabeça, tentando encontrar uma solução para o problema.
   * O que e o pensamento de longe?
     * E quando se tem uma visão geral, de cima dos problemas do dia-a-dia e conseguimos ver quadro inteiro.
-
+&nbsp;
+* O poder do interrogatório elaborado.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
