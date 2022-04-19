@@ -11,6 +11,8 @@
 &nbsp;
 * O poder do interrogatório elaborado.
   * E um erro que 99% das pessoas que programam cometem.
+  * Elas nao perguntam as coisas que nao sabem.
+  * Perguntar o porque das coisas funcionam daquele jeito.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
