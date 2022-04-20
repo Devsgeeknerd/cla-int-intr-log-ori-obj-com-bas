@@ -15,6 +15,13 @@
   * Perguntar o porque das coisas funcionam daquele jeito.
 &nbsp;
 * Repetição e rei, pratica e deus.
+  * Muitas pessoas nao assistem as aulas novamente.
+  * E fundamental para o aprendizado.
+  * E fundamental repetimos a aula que nao entendemos ate entender.
+  * Pratica o que foi mostrado na aula.
+  * Usar o interrogatório elaborado para entender o porque das coisas funciona daquele jeito.
+
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
