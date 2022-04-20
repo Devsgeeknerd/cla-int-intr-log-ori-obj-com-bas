@@ -33,7 +33,7 @@
   * Tenta assistir, praticar e testar, perguntar, descansar e depois assistir outra aula.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
