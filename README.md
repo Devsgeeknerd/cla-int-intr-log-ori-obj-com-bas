@@ -28,6 +28,7 @@
 &nbsp;
 * Pra aprender, precisamos dormir.
   * Para o nosso celebro ter o máximo de desempenho, precisamos dormir.
+  * Nao adianta virar a noite estudando e depois nao conseguir internalizar o conhecimento.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
