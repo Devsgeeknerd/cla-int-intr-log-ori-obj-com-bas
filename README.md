@@ -20,7 +20,8 @@
   * E fundamental repetimos a aula que nao entendemos ate entender.
   * Pratica o que foi mostrado na aula.
   * Usar o interrogatório elaborado para entender o porque das coisas funciona daquele jeito.
-
+&nbsp;
+* Nao se testa na mente, se testa na pratica.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
