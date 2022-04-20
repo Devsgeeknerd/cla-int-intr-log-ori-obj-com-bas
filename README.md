@@ -22,6 +22,10 @@
   * Usar o interrogatório elaborado para entender o porque das coisas funciona daquele jeito.
 &nbsp;
 * Nao se testa na mente, se testa na pratica.
+  * Nao tentar testar as teorias na mente e ver se faz sentido.
+  * Colocar em pratica.
+  * Testar o código para saber se ele vai funcionar mesmo.
+
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
