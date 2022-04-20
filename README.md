@@ -13,6 +13,8 @@
   * E um erro que 99% das pessoas que programam cometem.
   * Elas nao perguntam as coisas que nao sabem.
   * Perguntar o porque das coisas funcionam daquele jeito.
+&nbsp;
+* Repetição e rei, pratica e deus.
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
