@@ -27,6 +27,7 @@
   * Testar o código para saber se ele vai funcionar mesmo.
 &nbsp;
 * Pra aprender, precisamos dormir.
+  * Para o nosso celebro ter o máximo de desempenho, precisamos dormir.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
