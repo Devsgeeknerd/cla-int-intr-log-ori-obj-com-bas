@@ -8,8 +8,7 @@
     * E quando estou resolvendo um problema especifico, martelando a cabeça, tentando encontrar uma solução para o problema.
   * O que e o pensamento de longe?
     * E quando se tem uma visão geral, de cima dos problemas do dia-a-dia e conseguimos ver quadro inteiro.
- &nbsp;
- 
+&nbsp;
 * O poder do interrogatório elaborado.
   * E um erro que 99% das pessoas que programam cometem.
   * Elas nao perguntam as coisas que nao sabem.
