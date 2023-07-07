@@ -1,95 +1,48 @@
-<!-- TITLE -->
-# Como Aprender
+<!-- Título -->
+# Introdução
 
 ***Conteúdo da Aula:***
 
-* Diferença entre o pensamento de perto e o pensamento de longe.
-  * O que e o pensamento de perto?
-    * E quando estou resolvendo um problema especifico, martelando a cabeça, tentando encontrar uma solução para o problema.
-  * O que e o pensamento de longe?
-    * E quando se tem uma visão geral, de cima dos problemas do dia-a-dia e conseguimos ver quadro inteiro.
+O nosso objetivo neste curso é que você entenda os princípios das linguagens e da modelagem orientada a objetos, um paradigma muito presente nas linguagens modernas.
+
+Nós queremos que você adquira a capacidade de, com este curso, modelar qualquer projeto que você venha a desenvolver de acordo com o paradigma da orientação a objetos, isso de maneira independente do porte do projeto em questão:
+
+* Desde projetos pequenos até projetos muito complexos.
+
+Você pode estar se perguntando:
+
+* **“por que devo aprender a orientação a objetos?”**
+  * Hoje, um desenvolvedor deve conhecer, dominar e aplicar a orientação a objetos em seus projetos porque este é o paradigma de desenvolvimento mais comum e mais adotado pelas linguagens de programação modernas.
+  
+  * É difícil encontramos linguagens hoje em dia que não suportem a orientação a objetos, seja de maneira direta ou indireta.
+  
+  * O mercado também tem uma alta demanda de profissionais que realmente conheçam e dominem este paradigma.
+  
+  * Estes já são motivos suficientemente fortes para que estudemos o paradigma orientado a objetos.
+
+Nós optamos por utilizar a plataforma **Java** para o desenvolvimento deste curso.
+
+Nós optamos por ela devido ao fato de o **Java** suportar a orientação a objetos e também pelo fato de ela ser utilizada extensivamente no ambiente acadêmico justamente para o ensino da orientação a objetos.
+
+Além disso, o **Java** possui a sintaxe muito similar a outras linguagens modernas, o que facilita a curva de aprendizagem para que você possa aplicar os conceitos aqui vistos com **Java** em qualquer outra linguagem atual.
+
+O que importa para nós é que você absorva plenamente todos os conceitos que veremos deste ponto em diante.
+
+Depois de tudo, isso, vamos finalmente começar!!!
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-int-int-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-* O poder do interrogatório elaborado.
-  * E um erro que 99% das pessoas que programam cometem.
-  * Elas nao perguntam as coisas que nao sabem.
-  * Perguntar o porque das coisas funcionam daquele jeito.
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-* Repetição e rei, pratica e deus.
-  * Muitas pessoas nao assistem as aulas novamente.
-  * E fundamental para o aprendizado.
-  * E fundamental repetimos a aula que nao entendemos ate entender.
-  * Pratica o que foi mostrado na aula.
-  * Usar o interrogatório elaborado para entender o porque das coisas funciona daquele jeito.
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-* Nao se testa na mente, se testa na pratica.
-  * Nao tentar testar as teorias na mente e ver se faz sentido.
-  * Colocar em pratica.
-  * Testar o código para saber se ele vai funcionar mesmo.
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-* Pra aprender, precisamos dormir.
-  * Para o nosso celebro ter o máximo de desempenho, precisamos dormir.
-  * Nao adianta virar a noite estudando e depois nao conseguir internalizar o conhecimento.
-  * Nao vai conseguir lembrar dessas coisas no futuro.
-  * Tenta assistir, praticar e testar, perguntar, descansar e depois assistir outra aula.
-
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
-
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contraído com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recuso úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcom-apr-wp-zp&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/com-apr-wp-zp?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
-&nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/com-apr-wp-zp?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
-&nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/com-apr-wp-zp?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
-&nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/com-apr-wp-zp?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
-&nbsp;
-<!-- ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório") -->
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
